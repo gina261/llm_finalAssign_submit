@@ -1,4 +1,4 @@
-![initial](https://github.com/gina261/llm_finalAssign_submit/issues/1#issue-3166103031)
+<img width="1017" alt="Image" src="https://github.com/user-attachments/assets/329dd827-61cc-48e2-b169-0fb586b60cdf" />
 
 - 📄 **reward_model_with_lengthBias.py** : length bias를 갖는 reward model을 생성
 - 📄 **dpo.py** : DPO(original) 학습 진행
