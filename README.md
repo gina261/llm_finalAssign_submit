@@ -1,3 +1,5 @@
+![initial](https://github.com/gina261/llm_finalAssign_submit/issues/1#issue-3166103031)
+
 - 📄 **reward_model_with_lengthBias.py** : length bias를 갖는 reward model을 생성
 - 📄 **dpo.py** : DPO(original) 학습 진행
 - 📄 **dpo_mitigated.py** : DPO(mitigated) 학습 진행
